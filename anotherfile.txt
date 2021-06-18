@@ -1,1 +1,2 @@
 新しいファイルをmainbブランチで作成
+pull時のrebase用
